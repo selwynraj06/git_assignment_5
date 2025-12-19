@@ -3,3 +3,4 @@ this is written in filter file
 line three
 fourth line
 
+tag assignment
